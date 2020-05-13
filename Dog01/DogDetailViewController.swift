@@ -6,4 +6,12 @@
 //  Copyright © 2020 CourseKey. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+class DogDetailViewController: UIViewController {
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+    }
+}
+
