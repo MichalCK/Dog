@@ -20,7 +20,7 @@ class DogService: DogServiceProtocol {
             Dog(name: "Rex", gender: .male, description: "Very cute dog", age: 1, image: UIImage(named: "dog1")!),
             Dog(name: "Alice", gender: .female, description: "Young and energetic", age: 8, image: UIImage(named: "dog2")!),
             Dog(name: "Missy", gender: .female, description: "A friendly companion", age: 24, image: UIImage(named: "dog3")!),
-            Dog(name: "Eddy", gender: .male, description: "Loves playing outsite", age: 70, image: UIImage(named: "dog4")!),
+            Dog(name: "Eddy", gender: .male, description: "Loves playing outside", age: 70, image: UIImage(named: "dog4")!),
         ]
 
         return completion(dogList, nil)
