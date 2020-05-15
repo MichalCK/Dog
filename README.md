@@ -8,3 +8,6 @@ Dog - Class for Dog <br/>
 
 ## Prefered 
 If done using anchors.
+
+## UI
+![alt text](https://github.com/MichalCK/Dog/blob/master/DogViewControllerUI.png "UI")
